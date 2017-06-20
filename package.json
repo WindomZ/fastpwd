@@ -1,0 +1,31 @@
+{
+  "name": "wellpass",
+  "version": "0.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "wellpass": "bin/wellpass.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindomZ/wellpass.git"
+  },
+  "keywords": [
+    "well",
+    "password",
+    "generator"
+  ],
+  "author": "WindomZ <git.windomz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindomZ/wellpass/issues"
+  },
+  "homepage": "https://github.com/WindomZ/wellpass#readme"
+}
